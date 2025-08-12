@@ -5,7 +5,7 @@
 Welcome to Inotebook! This project is an online web platform designed to help you create, edit, upload, and delete your notes and information securely and privately. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), Inotebook ensures the security of your data with JWT authentication and bcrypt.js for password encryption.
 
 ## Demo Video
-[![Watch the video](https://img.youtube.com/vi/Jt2Lo3PXlEA/maxresdefault.jpg)](https://youtu.be/Jt2Lo3PXlEA)
+[![Watch the video](https://img.youtube.com/vi/Jt2Lo3PXlEA/maxresdefault.jpg)](https://youtu.be/vc1j_qA5aLs)
 
 
 ## Table of Contents
